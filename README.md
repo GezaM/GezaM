@@ -1,4 +1,14 @@
-### Hola 👋
+### Hola
+
+Actualmente estoy aprendiendo Desarrollo Web, mientras trabajo reparando pcs y haciendo impresión 3d.
+
+### Mis hobbies
+
+:video_game: Videojuegos :desktop_computer:
+:game_die: D&D 3.5. :crossed_swords:
+:printer: Impresión 3d :printer:
+:pager: Proyectos con Arduino :keyboard:
+
 
 <!--
 
