@@ -1,6 +1,8 @@
 # Hola, soy Géza
 Actualmente estoy aprendiendo JavaScript, mientras trabajo reparando pcs y haciendo impresión 3d. 
+
 Learning JavaScript while i work reparing Pcs and doing 3d printing.
+
 ## Mis hobbies
  :video_game: Videojuegos :desktop_computer:<br>
  :game_die: D&D 3.5. :crossed_swords:<br>
